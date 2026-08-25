@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋, I'm Desmond
 
-<!--
-**desmondkeehk007/desmondkeehk007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Builder & Solutions Architect | Exploring the Future of AI & Robotics**
 
-Here are some ideas to get you started:
+With a 20-year foundation in complex systems architecture, hard-core R&D, and regional technical sales, I am a self-proclaimed tech geek heavily focused on the robotics and artificial intelligence space. I am passionate about high-performance hardware, automation, and intelligent systems, and I am actively steering my career toward Technical Sales Evangelism and Customer Success within the robotics industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🤖 What I'm working on & learning:**
+
+- **Robotics & AI Integration:** Actively mastering robotics technologies and AI frameworks to bridge the gap between complex engineering and customer success.
+  
+- **Deep Learning Infrastructure:** Designing, building, and configuring multi-GPU local AI servers utilizing the latest AMD Ryzen processors to power local AI models and computations.
+  
+
+**💻 Tech Stack & Hardware:**
+
+- **AI & Hardware:** Multi-GPU local AI server configuration, high-performance PC builds, systems architecture.
+  
+- **Languages & Tooling:** Node.js, complex Bash / Shell Scripting.
+  
+
+- **Background:** B.Eng in Computer Technology (NTU) with early roots in government research institute R&D (ITI / KDRL).
+  
+
+**📫 Let's Connect:**
+
+- I am always open to discussing AI innovations, robotics solutions, local deep-learning hardware builds, or complex system automation.
+  
+- *LinkedIn:* **https://linkedin.com/in/desmond-kee-b9ba4255**
+  
+- *Email:* desmondkeehk007@gmail.com
+
