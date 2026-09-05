@@ -27,8 +27,8 @@ With a 20-year foundation in complex systems architecture, hard-core R&D, and re
   
 - *LinkedIn:* **https://linkedin.com/in/desmond-kee-b9ba4255**
   
-_- *Email:* **desmondkeehk007@gmail.com**
-_
+- *Email:* **desmondkeehk007@gmail.com**
+
 - *Youtube Channel:* **https://www.youtube.com/channel/UCaZNQ1k1MOtZGSVtgW10ncg**
 
 
