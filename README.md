@@ -7,30 +7,25 @@ With a 20-year foundation in complex systems architecture, hard-core R&D, and re
 **🤖 What I'm working on & learning:**
 
 - **Robotics & AI Integration:** Actively mastering robotics technologies and AI frameworks to bridge the gap between complex engineering and customer success.
-  
+
 - **Deep Learning Infrastructure:** Designing, building, and configuring multi-GPU local AI servers utilizing the latest AMD Ryzen processors to power local AI models and computations.
-  
 
 **💻 Tech Stack & Hardware:**
 
 - **AI & Hardware:** Multi-GPU local AI server configuration, high-performance PC builds, systems architecture.
-  
+
 - **Languages & Tooling:** Node.js, complex Bash / Shell Scripting.
-  
 
 - **Background:** B.Eng in Computer Technology (NTU) with early roots in government research institute R&D (ITI / KDRL).
-  
 
 **📫 Let's Connect:**
 
 - I am always open to discussing AI innovations, robotics solutions, local deep-learning hardware builds, or complex system automation.
-
-- *Personal Profile :* **https://yourpersonalmaker.com**
-  
 - *LinkedIn:* **https://linkedin.com/in/desmond-kee-b9ba4255**
-  
+- Personal Profile :* **https://yourpersonalmaker.com**
+
 - *Email:* **desmondkeehk007@gmail.com**
 
 - *Youtube Channel:* **https://www.youtube.com/channel/UCaZNQ1k1MOtZGSVtgW10ncg**
 
-
+***Other GitHub Repository***
