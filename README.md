@@ -24,7 +24,7 @@ With a 20-year foundation in complex systems architecture, hard-core R&D, and re
 
 - *LinkedIn:* **https://linkedin.com/in/desmond-kee-b9ba4255**
 
-- *Personal Profile* :* **https://yourpersonalmaker.com**
+- *Personal Profile* :* **https://yourpersonalmaker.io**
 
 - *Youtube Channel*:* **https://www.youtube.com/channel/UCaZNQ1k1MOtZGSVtgW10ncg**
 
