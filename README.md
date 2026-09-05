@@ -24,8 +24,12 @@ With a 20-year foundation in complex systems architecture, hard-core R&D, and re
 - *LinkedIn:* **https://linkedin.com/in/desmond-kee-b9ba4255**
 - Personal Profile :* **https://yourpersonalmaker.com**
 
-- *Email:* **desmondkeehk007@gmail.com**
+- Youtube Channel:* **https://www.youtube.com/channel/UCaZNQ1k1MOtZGSVtgW10ncg**
 
-- *Youtube Channel:* **https://www.youtube.com/channel/UCaZNQ1k1MOtZGSVtgW10ncg**
+**📫 Other Github Repository**
 
-***Other GitHub Repository***
+- **https://github.com/YourPersonalMaker**
+
+- **https://github.com/diy4ubymaker***
+
+- 
