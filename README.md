@@ -21,15 +21,21 @@ With a 20-year foundation in complex systems architecture, hard-core R&D, and re
 **📫 Let's Connect:**
 
 - I am always open to discussing AI innovations, robotics solutions, local deep-learning hardware builds, or complex system automation.
+
 - *LinkedIn:* **https://linkedin.com/in/desmond-kee-b9ba4255**
+
 - Personal Profile :* **https://yourpersonalmaker.com**
 
 - Youtube Channel:* **https://www.youtube.com/channel/UCaZNQ1k1MOtZGSVtgW10ncg**
 
-**📫 Other Github Repository**
+**📫 Github Repository**
 
 - **https://github.com/YourPersonalMaker**
 
-- **https://github.com/diy4ubymaker***
+- **https://github.com/diy4ubymaker**
 
-- 
+- **https://github.com/desmondkeehk007**
+
+****
+
+
