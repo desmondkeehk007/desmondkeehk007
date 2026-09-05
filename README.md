@@ -24,6 +24,8 @@ With a 20-year foundation in complex systems architecture, hard-core R&D, and re
 **📫 Let's Connect:**
 
 - I am always open to discussing AI innovations, robotics solutions, local deep-learning hardware builds, or complex system automation.
+
+- *Personal Profile :* **https://yourpersonalmaker.com**
   
 - *LinkedIn:* **https://linkedin.com/in/desmond-kee-b9ba4255**
   
